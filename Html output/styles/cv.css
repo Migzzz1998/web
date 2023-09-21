@@ -1,0 +1,722 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.cv-mSq {
+  width: 100%;
+  height: 139.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #f5f7fa;
+}
+.cv-mSq .rectangle-1-Kcm {
+  width: 120rem;
+  height: 131.9rem;
+  position: absolute;
+  left: 4rem;
+  top: 4rem;
+  box-shadow: 0.6rem 0.6rem 2rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+}
+.cv-mSq .left-oiH {
+  box-sizing: border-box;
+  padding-top: 4rem;
+  width: 37rem;
+  height: 131.9rem;
+  position: absolute;
+  left: 4rem;
+  top: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1e2939;
+}
+.cv-mSq .left-oiH .photo-2L9 {
+  width: 37rem;
+  height: 35.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 {
+  box-sizing: border-box;
+  padding: 5.1rem 4rem 36.6rem 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .contacts-7F7 {
+  margin-bottom: 2.3rem;
+  width: 17.4rem;
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .contacts-7F7 .contacts-y2R {
+  margin-bottom: 0.8rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .contacts-7F7 .auto-group-9bbf-2Fb {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .contacts-7F7 .auto-group-9bbf-2Fb .c-e--uaH {
+  margin-right: 0.4rem;
+  max-width: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .contacts-7F7 .auto-group-9bbf-2Fb .johndoegmailcom-SkZ {
+  max-width: 14.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .contacts-7F7 .auto-group-9bbf-2Fb .johndoegmailcom-SkZ .johndoegmailcom-SkZ-sub-0 {
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .contacts-7F7 .auto-group-9bbf-2Fb .johndoegmailcom-SkZ .johndoegmailcom-SkZ-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .tech-skills-5qT {
+  margin-bottom: 4.4rem;
+  width: 12.1rem;
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .tech-skills-5qT .tech-skills-Zkd {
+  margin-bottom: 0.8rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .tech-skills-5qT .auto-group-ndu3-eXB {
+  margin-right: 3.3rem;
+  width: calc(100% - 3.3rem);
+  display: flex;
+  align-items: center;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .tech-skills-5qT .auto-group-ndu3-eXB .item--joX {
+  margin-right: 1rem;
+  max-width: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fb6d3a;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .tech-skills-5qT .auto-group-ndu3-eXB .html5-css3-git-webpack-javascript-reactjs-nodejs-BfX {
+  max-width: 7.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .soft-skills-rWm {
+  width: 11.3rem;
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .soft-skills-rWm .soft-skills-MCd {
+  margin-bottom: 0.8rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .soft-skills-rWm .auto-group-hjsh-G4h {
+  margin-right: 2.3rem;
+  width: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .soft-skills-rWm .auto-group-hjsh-G4h .item--YH7 {
+  margin-right: 1rem;
+  max-width: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fb6d3a;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .left-oiH .auto-group-j7gv-X21 .soft-skills-rWm .auto-group-hjsh-G4h .scrum-agile-gtd-teamwork-SdP {
+  max-width: 7.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-Lyf {
+  width: 52.5rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 49.8rem;
+  top: 57rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq {
+  box-sizing: border-box;
+  padding-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .work-experience-DnZ {
+  margin-bottom: 1.2rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .front-end-developer-freelance-Mtm {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .front-end-developer-freelance-Mtm .front-end-developer-freelance-Mtm-sub-0 {
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .front-end-developer-freelance-Mtm .front-end-developer-freelance-Mtm-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #fb6d3a;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .front-end-developer-freelance-Mtm .front-end-developer-freelance-Mtm-sub-2 {
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .september-2019-up-to-now-country-x1P {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #a8a8a8;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .september-2019-up-to-now-country-x1P .september-2019-up-to-now-country-x1P-sub-0 {
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .september-2019-up-to-now-country-x1P .september-2019-up-to-now-country-x1P-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .work-experience-Lyf .auto-group-lxcz-gGq .september-2019-up-to-now-country-x1P .september-2019-up-to-now-country-x1P-sub-2 {
+}
+.cv-mSq .work-experience-Lyf .auto-group-wdg5-ht5 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-Lyf .auto-group-wdg5-ht5 .item--3h3 {
+  margin-right: 1rem;
+  max-width: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-Lyf .auto-group-wdg5-ht5 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-risus-commodo-viverra-maecenas-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-mN9 {
+  max-width: 50.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .education-9Nh {
+  width: 24.2rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 49.8rem;
+  top: 113.8rem;
+}
+.cv-mSq .education-9Nh .education-51T {
+  margin-bottom: 1.2rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .education-9Nh .national-university-1vh {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #fb6d3a;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .education-9Nh .management-A2u {
+  margin-bottom: 1.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .education-9Nh .september-2009-june-2014-country-Vqs {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #a8a8a8;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.cv-mSq .education-9Nh .september-2009-june-2014-country-Vqs .september-2009-june-2014-country-Vqs-sub-0 {
+}
+.cv-mSq .education-9Nh .september-2009-june-2014-country-Vqs .september-2009-june-2014-country-Vqs-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .education-9Nh .september-2009-june-2014-country-Vqs .september-2009-june-2014-country-Vqs-sub-2 {
+}
+.cv-mSq .work-experience-qYM {
+  width: 52.5rem;
+  height: 15rem;
+  position: absolute;
+  left: 49.8rem;
+  top: 79.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf {
+  box-sizing: border-box;
+  padding-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf .manager-glory-new-XRB {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf .manager-glory-new-XRB .manager-glory-new-XRB-sub-0 {
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf .manager-glory-new-XRB .manager-glory-new-XRB-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #fb6d3a;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf .march-2015-october-2018-country-hU5 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #a8a8a8;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf .march-2015-october-2018-country-hU5 .march-2015-october-2018-country-hU5-sub-0 {
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf .march-2015-october-2018-country-hU5 .march-2015-october-2018-country-hU5-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .work-experience-qYM .auto-group-nhe9-yPf .march-2015-october-2018-country-hU5 .march-2015-october-2018-country-hU5-sub-2 {
+}
+.cv-mSq .work-experience-qYM .auto-group-ck8r-E6d {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-qYM .auto-group-ck8r-E6d .item--ndw {
+  margin-right: 1rem;
+  max-width: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-qYM .auto-group-ck8r-E6d .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-labore-et-dolore-magna-aliqua-quis-ipsum-suspendisse-ultrices-gravida-risus-commodo-viverra-maecenas-7gD {
+  max-width: 50.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-BRB {
+  width: 41rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 49.8rem;
+  top: 96.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM {
+  box-sizing: border-box;
+  padding-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM .manager-glory-llc-TtV {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM .manager-glory-llc-TtV .manager-glory-llc-TtV-sub-0 {
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM .manager-glory-llc-TtV .manager-glory-llc-TtV-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #fb6d3a;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM .june-2014-february-2015-country-q8M {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #a8a8a8;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM .june-2014-february-2015-country-q8M .june-2014-february-2015-country-q8M-sub-0 {
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM .june-2014-february-2015-country-q8M .june-2014-february-2015-country-q8M-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .work-experience-BRB .auto-group-ewwu-WiM .june-2014-february-2015-country-q8M .june-2014-february-2015-country-q8M-sub-2 {
+}
+.cv-mSq .work-experience-BRB .auto-group-aat3-bFw {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-BRB .auto-group-aat3-bFw .item--ked {
+  margin-right: 1rem;
+  max-width: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .work-experience-BRB .auto-group-aat3-bFw .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-quis-ipsum-suspendisse-ultrices-gravida-risus-commodo-viverra-maecenas-gYH {
+  max-width: 39.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .text-intro-Lcq {
+  width: 39rem;
+  height: 23rem;
+  position: absolute;
+  left: 49.8rem;
+  top: 14.2rem;
+}
+.cv-mSq .text-intro-Lcq .front-end-developer-scm {
+  margin-bottom: 1.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .text-intro-Lcq .john-doe-DAq {
+  margin-bottom: 1.9rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .text-intro-Lcq .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-quis-ipsum-suspendisse-ultrices-gravida-risus-commodo-viverra-maecenas-accumsan-lacus-vel-facilisis-9qB {
+  max-width: 39rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV {
+  width: 48.5rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 49.8rem;
+  top: 41.2rem;
+}
+.cv-mSq .projects-1cV .projects-vUZ {
+  margin-bottom: 0.8rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw {
+  width: 100%;
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .item-1-2-3-kiV {
+  margin-right: 1.3rem;
+  max-width: 1.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP {
+  margin-right: 0.35rem;
+  width: 32.45rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .https-barbershopgoitglobal-https-cryptohubgoitglobal-https-kidslikegoitglobal--sRj {
+  width: 21.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .https-barbershopgoitglobal-https-cryptohubgoitglobal-https-kidslikegoitglobal--sRj .https-barbershopgoitglobal-https-cryptohubgoitglobal-https-kidslikegoitglobal--sRj-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  text-decoration-line: underline;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .https-barbershopgoitglobal-https-cryptohubgoitglobal-https-kidslikegoitglobal--sRj .https-barbershopgoitglobal-https-cryptohubgoitglobal-https-kidslikegoitglobal--sRj-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  text-decoration-line: underline;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .https-barbershopgoitglobal-https-cryptohubgoitglobal-https-kidslikegoitglobal--sRj .https-barbershopgoitglobal-https-cryptohubgoitglobal-https-kidslikegoitglobal--sRj-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  text-decoration-line: underline;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .group-1-buT {
+  width: 14.1932rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 18.2568rem;
+  top: 1.7rem;
+  row-gap: 2.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .group-1-buT .vector-1-Twf {
+  margin-right: 0rem;
+  width: 11.8rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .group-1-buT .vector-2-Qc1 {
+  margin-right: 0rem;
+  width: 12.2383rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .auto-group-p4gq-UuP .group-1-buT .vector-2-mBf {
+  width: 14.1932rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK {
+  max-width: 13.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-1 {
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-3 {
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-4 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-5 {
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-6 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-7 {
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-8 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-9 {
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-10 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #595959;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-11 {
+}
+.cv-mSq .projects-1cV .auto-group-vjpf-FFw .html5-css3-javascript-reactjs-nodejs--7mK .html5-css3-javascript-reactjs-nodejs--7mK-sub-12 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
